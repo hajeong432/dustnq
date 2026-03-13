@@ -1,5 +1,4 @@
 import random
-
 def start_game():
     current_step = 0
     goal = 50
